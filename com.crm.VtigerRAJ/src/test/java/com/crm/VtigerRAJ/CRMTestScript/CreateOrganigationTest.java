@@ -32,6 +32,28 @@ public class CreateOrganigationTest extends BaseClass{
 			HomePage homePage=new HomePage(driver);
 			homePage.Organization();
 			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			//click on AddImageIconclick
 			OrganizationPage orgnizationPage=new OrganizationPage(driver);
 			orgnizationPage.AddImageIconclick();
